@@ -1,0 +1,74 @@
+[
+   {
+      "id": 1,
+      "nombre": "lapicera",
+      "marca": "bic",
+      "precio": 100,
+      "descuento": 5,
+      "stock": true
+   },
+   {
+      "id": 2,
+      "nombre": "goma",
+      "marca": "dos banderas",
+      "precio": 100,
+      "descuento": 10,
+      "stock": true
+   },
+   {
+      "id": 3,
+      "nombre": "tijera",
+      "marca": "mapped",
+      "precio": 300,
+      "descuento": 10,
+      "stock": true
+   },
+   {
+      "id": 4,
+      "nombre": "cartuchera",
+      "marca": "pizzini",
+      "precio": 1300,
+      "descuento": 20,
+      "stock": true
+   },
+   {
+      "id": 5,
+      "nombre": "play 5",
+      "marca": "sony",
+      "precio": 2000,
+      "descuento": 0,
+      "stock": true
+   },
+   {
+      "id": 6,
+      "nombre": "Xbox Series X",
+      "marca": "Microsoft",
+      "precio": 1500,
+      "descuento": 0,
+      "stock": true
+   },
+   {
+      "id": 7,
+      "nombre": "regla",
+      "marca": "pizzini",
+      "precio": 200,
+      "descuento": 0,
+      "stock": true
+   },
+   {
+      "id": 8,
+      "nombre": "compas",
+      "marca": "pizzini",
+      "precio": 300,
+      "descuento": 0,
+      "stock": true
+   },
+   {
+      "id": 9,
+      "nombre": "lapices",
+      "marca": "faber castel",
+      "precio": 1000,
+      "descuento": 0,
+      "stock": true
+   }
+]
